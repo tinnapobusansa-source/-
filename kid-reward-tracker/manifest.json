@@ -2,7 +2,7 @@
   "name": "Kid's Reward Tracker Pro",
   "short_name": "แต้มสะสม",
   "description": "แอปสะสมแต้มความดีสำหรับลูก พร้อมระบบภารกิจ ท้าดวล รางวัล และของขวัญประจำฤดูกาล",
-  "start_url": "./kid-reward-tracker-pro.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFF7ED",
